@@ -21,7 +21,6 @@ jupyter notebook    # classic notebook UI
 
 - `data/` — input datasets
 - `models/` — saved model artifacts
-- `sample.ipynb` — starter notebook template
 
 ## Stack
 
