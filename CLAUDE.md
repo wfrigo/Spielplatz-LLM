@@ -24,6 +24,6 @@ jupyter notebook    # classic notebook UI
 
 ## Stack
 
-Data science and LLM experimentation playground. Key installed packages: JupyterLab, NumPy, Pandas, Matplotlib, Requests, BeautifulSoup, Arrow.
+Data science and LLM experimentation playground. Key installed packages: JupyterLab, NumPy, Pandas, Matplotlib, Requests, BeautifulSoup, SciPy, tiktoken.
 
 No build system, test runner, or linter is configured yet.
